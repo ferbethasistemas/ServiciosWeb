@@ -9,6 +9,7 @@
 <link rel='stylesheet' id='twentyfifteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
 <link rel='stylesheet' id='genericons-css'  href='https://keegan.st/wp-content/themes/twentyfifteen/genericons/genericons.css?ver=3.2' type='text/css' media='all' />
 <link rel='stylesheet' id='twentyfifteen-style-css'  href='https://keegan.st/wp-content/themes/twentyfifteen/style.css?ver=4.8.8' type='text/css' media='all' />
+<meta name="generator" content="WordPress 4.8.8" />
 </head>
 <body class="index" onload="startTime()" id="page-top">
 <div id="page" class="hfeed site">
