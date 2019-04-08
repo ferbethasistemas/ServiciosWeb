@@ -6,6 +6,7 @@
 <link rel="icon" href="images/favicon.svg" type="image/x-icon">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="https://keegan.st/xmlrpc.php">
+<link rel='stylesheet' id='twentyfifteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
 </head>
 <body class="index" onload="startTime()" id="page-top">
 <div id="page" class="hfeed site">
