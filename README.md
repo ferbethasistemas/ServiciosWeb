@@ -6,34 +6,6 @@
 <link rel="icon" href="images/favicon.svg" type="image/x-icon">
 <link rel="profile" href="http://gmpg.org/xfn/11">
 <link rel="pingback" href="https://keegan.st/xmlrpc.php">
-<title>Servicios Web</title>
-<link rel='stylesheet' id='twentyfifteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Noto+Sans%3A400italic%2C700italic%2C400%2C700%7CNoto+Serif%3A400italic%2C700italic%2C400%2C700%7CInconsolata%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
-<link rel='stylesheet' id='genericons-css'  href='https://keegan.st/wp-content/themes/twentyfifteen/genericons/genericons.css?ver=3.2' type='text/css' media='all' />
-<link rel='stylesheet' id='twentyfifteen-style-css'  href='https://keegan.st/wp-content/themes/twentyfifteen/style.css?ver=4.8.8' type='text/css' media='all' />
-<script type='text/javascript' src='https://keegan.st/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
-<script type='text/javascript' src='https://keegan.st/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
-<script type='text/javascript' src='//platform-api.sharethis.com/js/sharethis.js#product=ga'></script>
-<meta name="generator" content="WordPress 4.8.8" />
-<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
-<style type="text/css" id="syntaxhighlighteranchor"></style>
-<!-- para la animacion de las imagenes -->
-<link href="/css/agency.min.css" rel="stylesheet">
-<!-- Script para la hora en tiempo real -->
-<script type="text/javascript">
-		function startTime()
-		{
-		var today=new Date();
-		var h=today.getHours();
-		var m=today.getMinutes();
-		var s=today.getSeconds();
-		// add a zero in front of numbers<10
-		m=checkTime(m);
-		s=checkTime(s);
-		document.getElementById('Hora').innerHTML=h+":"+m+":"+s;
-		t=setTimeout('startTime()',500); }
-		function checkTime(i)
-		{	if (i<10)	{	i="0" + i; } return i; }
-</script>
 </head>
 <body class="index" onload="startTime()" id="page-top">
 <div id="page" class="hfeed site">
