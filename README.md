@@ -28,7 +28,7 @@
 	<aside id="text-1" class="widget widget_text">
 	 <h2 class="widget-title">Portafolio de Servicios</h2>
 	 <div class="textwidget">
-		<h2 href="https://github.com/ferbethasistemas/ServiciosWeb.git">Servicios Web</h2>
+		<h2 id="post-0000" href="https://github.com/ferbethasistemas/ServiciosWeb.git">Servicios Web</h2>
 		<ul>
 		 <li><a href="README.md#post-0001">Qué es un Servicio Web</a></li>
 		 <li><a href="README.md#post-0002">Porque utilizar un Servicio Web</a></li>
@@ -88,10 +88,11 @@
 <div id="primary" class="content-area">
 <!-- Antes era: <main id="main" ... >  -->
 <main  id="patterns" class="site-main" role="main">
-	<article id="post-0001" class="post-00001 post type-post status-publish format-justify hentry category-uncategorised">
+	<article class="post-00001 post type-post status-publish format-justify hentry category-uncategorised">
 		<header class="entry-header">
-		 <img src="images/encabezadosbeta.jpg" width="100%" height="50%">
-		 <h2 class="entry-title"><a href="http://172.16.9.36/indice.html" rel="bookmark">Qué es un Servicio Web</a></h2></header>
+	<img src="images/encabezadosbeta.jpg" width="100%" height="50%">
+	<h2 class="entry-title">
+	<a id="post-0001" href="README.md#post-0000" rel="bookmark">Qué es un Servicio Web</a></h2></header>
 		<div class="entry-content">
 		<h4>Concepto</h4>
 		<img src="images/rest-services.png" width="100%" height="50%">
