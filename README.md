@@ -80,20 +80,6 @@
 	  </ul>
 	 </div>
 	</aside>
-	<aside id="search-5" class="widget widget_search">
-		<!--action="https://keegan.st/">-->
-		<form role="search" method="get" class="search-form" action="http://www.betapc.com/indice.html">
-			<label><span class="screen-reader-text">Search for:</span>
-				<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
-			</label>
-			<input type="submit" class="search-submit screen-reader-text" value="Search" />
-		</form>
-	</aside>
-	<aside id="meta-2" class="widget widget_meta"><h2 class="widget-title">Meta</h2>
-	 <ul>
-	  <li><a href="https://wordpress.org/" title="Powered by WordPress, state-of-the-art semantic personal publishing platform.">WordPress.org</a></li>
-   </ul>
-	</aside>
 </div><!-- .widget-area -->
 </div><!-- .secondary -->
 </div><!-- .sidebar -->
