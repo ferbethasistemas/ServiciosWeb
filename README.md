@@ -30,10 +30,10 @@
 	 <div class="textwidget">
 		<h2 href="https://github.com/ferbethasistemas/ServiciosWeb.git">Servicios Web</h2>
 		<ul>
-		 <li><a href="index.html#post-0001">Qué es un Servicio Web</a></li>
-		 <li><a href="index.html#post-0002">Porque utilizar un Servicio Web</a></li>
-		 <li><a href="index.html#post-0003">Diseño de su Propio API Rest Full</a></li>
-		 <li><a href="index.html#post-0004">Esquemas de Desarrollo</a></li>
+		 <li><a href="README.md#post-0001">Qué es un Servicio Web</a></li>
+		 <li><a href="README.md#post-0002">Porque utilizar un Servicio Web</a></li>
+		 <li><a href="README.md#post-0003">Diseño de su Propio API Rest Full</a></li>
+		 <li><a href="README.md#post-0004">Esquemas de Desarrollo</a></li>
 		 <li><a href="https://github.com/ferbethasistemas/CV" target="_blank">Currículum Vitae</a></li>
 	  </ul>
 	 </div>
