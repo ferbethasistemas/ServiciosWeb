@@ -151,14 +151,5 @@
   </div><!-- .site-info -->
 </footer><!-- .site-footer -->
 </div><!-- .site -->
-	<script type='text/javascript' src='https://keegan.st/wp-content/plugins/syntaxhighlighter/syntaxhighlighter3/scripts/shCore.js?ver=3.0.9b'></script>
-	<script type='text/javascript' src='https://keegan.st/wp-content/plugins/syntaxhighlighter/syntaxhighlighter3/scripts/shBrushCss.js?ver=3.0.9b'></script>
-	<script type='text/javascript' src='https://keegan.st/wp-content/plugins/syntaxhighlighter/syntaxhighlighter3/scripts/shBrushBash.js?ver=3.0.9b'></script>
-	<script type='text/javascript' src='https://keegan.st/wp-content/themes/twentyfifteen/js/skip-link-focus-fix.js?ver=20141010'></script>
-	<script type='text/javascript'> /* <![CDATA[ */
-	 var screenReaderText = {"expand":"<span class=\"screen-reader-text\">expand child menu<\/span>","collapse":"<span class=\"screen-reader-text\">collapse child menu<\/span>"}; /* ]]> */
-	</script>
-	<script type='text/javascript' src='https://keegan.st/wp-content/themes/twentyfifteen/js/functions.js?ver=20150330'></script>
-	<script type='text/javascript' src='https://keegan.st/wp-includes/js/wp-embed.min.js?ver=4.8.8'></script>
 </body>
 </html>
