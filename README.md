@@ -90,7 +90,7 @@
 <main  id="patterns" class="site-main" role="main">
 	<article id="post-0001" class="post-00001 post type-post status-publish format-justify hentry category-uncategorised">
 		<header class="entry-header">
-		 <img src="../ServiciosWeb/images/encabezadosbeta.jpg" width="100%" height="50%">
+		 <img src="images/encabezadosbeta.jpg" width="100%" height="50%">
 		 <h2 class="entry-title"><a href="http://172.16.9.36/indice.html" rel="bookmark">Qué es un Servicio Web</a></h2></header>
 		<div class="entry-content">
 		<h4>Concepto</h4>
